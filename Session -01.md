@@ -13,9 +13,10 @@
 -Sự thay đổi qua từng thế hệ của blockchain
 -Ứng dụng của blockchain
 ## 2. Topic notes
+-Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung Giải quyết đồng thời nhiều vấn đề cùng lúc.
 
 - Centralized systems have one main authority; decentralized systems distribute
-  control across participants.
+- Centralized systems have one main authority; decentralized systems distribute
 - Ethereum added programmable smart contracts on top of a blockchain.
 - A useful example is cross-border settlement where multiple organizations need
   a shared record.
