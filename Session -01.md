@@ -7,7 +7,7 @@
 - Commit: `<replace with the real commit URL>`
 
 ## 1. Summary
--Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.Giúp đảm bảo tính minh bạch ,tập trung và bất biến
+-Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.\nGiúp đảm bảo tính minh bạch ,tập trung và bất biến
 -Phân loại:+Permissionless
            +Permissioned
 -Sự thay đổi qua từng thế hệ của blockchain
