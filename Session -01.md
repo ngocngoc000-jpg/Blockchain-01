@@ -3,15 +3,15 @@
 - Student: Lê Thị Bích Ngọc
 - GitHub: [@demo-student]
 - (https://github.com/demo-student)
-- Submitted: 2026-10-14
+- Submitted: 2026-10-20
 - Commit: `<replace with the real commit URL>`
 
 ## 1. Summary
-
-Blockchain is a shared, append-only ledger maintained by a network instead of
-one central operator. Bitcoin introduced a practical way to transfer value
-without a trusted central intermediary.
-
+-Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.Giúp đảm bảo tính minh bạch ,tập trung và bất biến
+-Phân loại:+Permissionless
+           +Permissioned
+-Sự thay đổi qua từng thế hệ của blockchain
+-Ứng dụng của blockchain
 ## 2. Topic notes
 
 - Centralized systems have one main authority; decentralized systems distribute
