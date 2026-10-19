@@ -1,7 +1,8 @@
 # Session 01 - Blockchain Fundamentals
 
-- Student: Demo Student
-- GitHub: [@demo-student](https://github.com/demo-student)
+- Student: Lê Thị Bích Ngọc
+- GitHub: [@demo-student]
+- (https://github.com/demo-student)
 - Submitted: 2026-10-14
 - Commit: `<replace with the real commit URL>`
 
