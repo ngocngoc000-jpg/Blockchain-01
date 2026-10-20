@@ -1,11 +1,9 @@
 # Session 01 - Blockchain Fundamentals
 
 - Student: Lê Thị Bích Ngọc
-- GitHub: [@demo-student]
-- (https://github.com/demo-student)
+- GitHub:https://github.com/ngocngoc000-jpg/Blockchain-01/edit/main/Session%20-01.md
 - Submitted: 2026-10-20
-- Commit:https://github.com/ngocngoc000-jpg/Blockchain-01/edit/main/Session%20-
-
+- Commit:https://github.com/ngocngoc000-jpg/Blockchain-01
 ## 1. Summary
 -Blockchain là một chuỗi các khối thông tin (block) được liên kết với nhau bằng mã (hash),lưu trữ phân tán trên nhiều máy tính nhằm đảm bảo tính minh bạch, phi tập trung và bất biến.
 
