@@ -4,7 +4,7 @@
 - GitHub: [@demo-student]
 - (https://github.com/demo-student)
 - Submitted: 2026-10-20
-- Commit: `<replace with the real commit URL>`
+- Commit: https://github.com/ngocngoc000-jpg/Blockchain-01/edit/main/Session%20-01.md
 
 ## 1. Summary
 -Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.Giúp đảm bảo tính minh bạch ,tập trung và bất biến
@@ -13,7 +13,7 @@
 -Sự thay đổi qua từng thế hệ của blockchain
 -Ứng dụng của blockchain
 ## 2. Topic notes
--Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung Giải quyết đồng thời nhiều vấn đề cùng lúc.
+-Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung giải quyết đồng thời nhiều vấn đề cùng lúc.
 
 - Centralized systems have one main authority; decentralized systems distribute
 - Centralized systems have one main authority; decentralized systems distribute
