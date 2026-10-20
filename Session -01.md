@@ -8,35 +8,21 @@
 
 ## 1. Summary
 -Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.Giúp đảm bảo tính minh bạch ,tập trung và bất biến
--Phân loại:+Permissionless
-           +Permissioned
+-Phân loại:+Tập trung
+           +Phi tập trung
 -Sự thay đổi qua từng thế hệ của blockchain
 -Ứng dụng của blockchain
 ## 2. Topic notes
--Centralized:Solves a single problem at a time.
--Decentralized:Handles multiple problems simultaneously.
-
+-Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung giải quyết đồng thời nhiều vấn đề cùng lúc.
 
 ## 3. Work completed
-
-```text
-Read the Session 01 material.
-Compared a bank ledger with a public blockchain ledger.
-Wrote a short use-case analysis.
-```
-
+-No blocker.
 ## 4. Evidence
-
-| Task | Evidence URL | What it proves |
-| --- | --- | --- |
-| Concept notes | `<replace with the commit URL>` | Notes were committed |
-| Use-case analysis | `<replace with the document or file URL>` | The use case is reviewable |
-
+-Link bài tập đã hoàn thành
+https://drive.google.com/file/d/14PqDi2JQMPqhfiCnfSBubAkQ7K8nIfMM/view?usp=drivesdk
 ## 5. Blockers
-
+No blocker.
+## 6. Takeaway
 No blocker.
 
-## 6. Takeaway
-
-The next session explains how transactions move through the network and become
 
