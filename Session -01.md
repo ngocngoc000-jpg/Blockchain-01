@@ -7,7 +7,7 @@
 - Commit: https://github.com/ngocngoc000-jpg/Blockchain-01/edit/main/Session%20-01.md
 
 ## 1. Summary
--Blockchain là cơ sở dữ liệu phân cấp lưu trữ thông tin cho các khối gọi là block,được lưu trữ trên nhiều máy tính.Giúp đảm bảo tính minh bạch ,tập trung và bất biến
+-Blockchain là một chuỗi các khối thông tin (block) được liên kết với nhau bằng mã hash, lưu trữ phân tán trên nhiều máy tính nhằm đảm bảo tính minh bạch, phi tập trung và bất biến.
 -Phân loại:+Tập trung
            +Phi tập trung
 -Sự thay đổi qua từng thế hệ của blockchain
@@ -16,13 +16,13 @@
 -Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung giải quyết đồng thời nhiều vấn đề cùng lúc.
 
 ## 3. Work completed
--No blocker.
+Không có
 ## 4. Evidence
 -Link bài tập đã hoàn thành
 https://drive.google.com/file/d/14PqDi2JQMPqhfiCnfSBubAkQ7K8nIfMM/view?usp=drivesdk
 ## 5. Blockers
-No blocker.
+Khoing có
 ## 6. Takeaway
-No blocker.
+Không có
 
 
