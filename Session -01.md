@@ -13,13 +13,9 @@
 -Sự thay đổi qua từng thế hệ của blockchain
 -Ứng dụng của blockchain
 ## 2. Topic notes
--Tập trung giải quyết một vấn đề đơn lẻ.Phi tập trung giải quyết đồng thời nhiều vấn đề cùng lúc.
+-Centralized:Solves a single problem at a time.
+-Decentralized:Handles multiple problems simultaneously.
 
-- Centralized systems have one main authority; decentralized systems distribute
-- Centralized systems have one main authority; decentralized systems distribute
-- Ethereum added programmable smart contracts on top of a blockchain.
-- A useful example is cross-border settlement where multiple organizations need
-  a shared record.
 
 ## 3. Work completed
 
