@@ -26,9 +26,12 @@ Dùng ít tài nguyên hơn và dựa trên một phần dữ liệu/bằng ch�
 <img width="929" height="392" alt="Screenshot 2026-10-28 014839" src="https://github.com/user-attachments/assets/9a7cdd1c-648a-4743-b2af-31f9de28e83b" />
 ## 3. Work completed
 không có 
+
 ## 4. Evidence
 không có
+
 ## 5. Blockers
 không có 
+
 ## 6. Takeaway
 không có
