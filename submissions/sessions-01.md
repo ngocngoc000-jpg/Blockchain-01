@@ -33,6 +33,6 @@ Không có
 -Link bài tập đã hoàn thành
 https://drive.google.com/file/d/14PqDi2JQMPqhfiCnfSBubAkQ7K8nIfMM/view?usp=drivesdk
 ## 5. Blockers
-Khoing có
+Không có
 ## 6. Takeaway
 Không có
